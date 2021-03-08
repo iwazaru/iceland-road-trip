@@ -3,3 +3,4 @@ yarn-error.log
 dist/bundle*
 dist/index.html
 dist/sitemap*
+src/trips/trips.json
